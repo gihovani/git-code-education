@@ -1,1 +1,1 @@
-<?php echo  "func: 2";
+<?php echo  "func: 2!";
